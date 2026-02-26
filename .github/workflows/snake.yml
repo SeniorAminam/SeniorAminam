@@ -1,28 +1,42 @@
-name: Generate Snake Animation
+name: 🐍 Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
+# 🔥 ADD THESE PERMISSIONS - This fixes the error!
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   build:
+    name: Generate Snake Animation
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: actions/checkout@v4
-      
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
         with:
-          github_user_name: SeniorAminam
+          fetch-depth: 0  # Required for git history
+      
+      - name: 🐍 Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      
+      - name: 🚀 Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3  # 🔥 CHANGED to more reliable action
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true  # Creates clean branch each time
