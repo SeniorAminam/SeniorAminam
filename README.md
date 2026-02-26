@@ -1,9 +1,24 @@
+<!--
+  ╔════════════════════════════════════════════════════════════════╗
+  ║          Amin Davodian | Senior Software Engineer                ║
+  ║              PHP • Python • Laravel • DevOps                     ║
+  ╚════════════════════════════════════════════════════════════════╝
+-->
 <!-- 
-  ╔═══════════════════════════════════════════════════════════════════════╗
-  ║                    Professional GitHub Profile README                   ║
-  ║                         Amin Davodian | SeniorAminam                    ║
-  ║                     https://senioramin.com | Senior Engineer            ║
-  ╚═══════════════════════════════════════════════════════════════════════╝
+/**
+ * Project: SeniorAminam GitHub Profile
+ * File: README.md
+ * Author: Amin Davodian (Mohammadamin Davodian)
+ * Website: https://senioramin.com
+ * LinkedIn: https://linkedin.com/in/SudoAmin
+ * GitHub: https://github.com/SeniorAminam
+ * Created: 2026-02-26
+ * 
+ * Purpose: Professional GitHub profile README with dynamic stats and project showcases
+ * Developed by Amin Davodian
+ * 
+ * SPDX-License-Identifier: MIT
+ */
 -->
 
 <!-- Profile Views Counter - Verified Working -->
@@ -209,7 +224,7 @@ I'm **Amin Davodian** (امین داودیان), a passionate **Senior Software 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://senioramin.com" target="_blank">
+  <a href="https://SeniorAmin.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Website-senioramin.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/SudoAmin" target="_blank">
@@ -218,13 +233,13 @@ I'm **Amin Davodian** (امین داودیان), a passionate **Senior Software 
   <a href="https://github.com/SeniorAminam" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://t.me/SudoAmin" target="_blank">
+  <a href="https://t.me/Amin_Dv" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:sudoaminam@gmail.com">
+  <a href="mailto:SudoAminam@gmail.com">
     <img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
