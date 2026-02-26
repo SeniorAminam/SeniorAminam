@@ -1,66 +1,84 @@
-<!--
-  ╔════════════════════════════════════════════════════════════════╗
-  ║          Amin Davodian | Senior Software Engineer                ║
-  ║              PHP • Python • Laravel • DevOps                     ║
-  ╚════════════════════════════════════════════════════════════════╝
+<!-- 
+  ╔═══════════════════════════════════════════════════════════════════════╗
+  ║                    Professional GitHub Profile README                   ║
+  ║                         Amin Davodian | SeniorAminam                    ║
+  ║                     https://senioramin.com | Senior Engineer            ║
+  ╚═══════════════════════════════════════════════════════════════════════╝
 -->
 
-<!-- Profile Views -->
+<!-- Profile Views Counter - Verified Working -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=SeniorAminam&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=SeniorAminam&label=Profile%20Views&color=0891b2&style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
-<!-- Animated Header -->
+<!-- Animated Typing Header - Verified Working -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=4000&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Amin+Davodian;Senior+Software+Engineer;Full-Stack+Developer;DevOps+Expert" alt="Header" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=0891B2&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Amin+Davodian;%D9%85%D9%86+%D8%A7%D9%85%DB%8C%D9%86+%D8%AF%D8%A7%D9%88%D9%88%D8%AF%DB%8C%D8%A7%D9%86+%D9%87%D8%B3%D8%AA%D9%85;Senior+Software+Engineer;Full-Stack+Developer;DevOps+Specialist;Building+The+Future+%F0%9F%9A%80" alt="Typing Animation" />
+  </a>
 </h1>
 
+<!-- Centered Greeting GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px" height="60px" />
 </p>
 
-<!-- Status Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Available%20For%20Work-Yes-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Iran-important?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Languages-Persian%20%7C%20English-success?style=for-the-badge" />
+  <em>⭐ "Building scalable solutions with elegant code" ⭐</em>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<!-- Badges Row - All Verified Working -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-blue?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience" />
+  <img src="https://img.shields.io/badge/Location-Iran%20%F0%9F%87%AE%F0%9F%87%B7-important?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Languages-%F0%9F%87%AE%F0%9F%87%B7%20Persian%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20English-success?style=for-the-badge&logo=google-translate&logoColor=white" alt="Languages" />
+</p>
+
+---
+
+## 🎯 About Me
 
 <table>
 <tr>
-<td width="65%">
+<td width="60%">
 
-### Amin Davodian (امین داودیان)
+### 👨‍💻 Who Am I?
 
-**Senior Software Engineer** specializing in building scalable web applications and automation systems.
+I'm **Amin Davodian** (امین داودیان), a passionate **Senior Software Engineer** from Iran 🇮🇷 with expertise in building enterprise-grade applications. I specialize in creating robust backend systems, intuitive user interfaces, and DevOps automation.
 
-**💼 Core Expertise:**
-- **Backend Development**: PHP, Laravel, Python
-- **DevOps & Infrastructure**: Docker, Linux, Nginx, CI/CD
-- **Database Management**: MySQL, PostgreSQL, MongoDB, Redis
-- **System Architecture**: Microservices, API Design, Cloud Solutions
+**🎓 Education & Background:**
+- Computer Science & Software Engineering background
+- Continuous learner of modern technologies
+- Open-source contributor & community member
 
-**🎯 Professional Focus:**
-- Building enterprise-grade Telegram bots & automation tools
-- Server optimization & high-performance configurations
-- Clean code architecture & best practices
+**🌟 Core Philosophy:**
+> *"Code is poetry, architecture is art, and engineering is the bridge between imagination and reality."*
 
-**📍 Based in:** Iran 🇮🇷  
-**🌐 Website:** [senioramin.com](https://senioramin.com)  
-**💬 Languages:** Persian (Native), English (Fluent)
+**⚡ Fun Facts:**
+- 🔧 I optimize servers for breakfast
+- 🤖 I build Telegram bots that serve thousands of users
+- 🐳 Docker is my middle name
+- 🎯 I believe in "measure twice, code once"
 
 </td>
-<td width="35%" align="center">
+<td width="40%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" />
+<!-- Verified Working Developer GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding" />
 
-<!-- Trophy - Single Reliable Source -->
-<img src="https://github-profile-trophy.vercel.app/?username=SeniorAminam&theme=tokyonight&no-frame=true&column=3&margin-w=5&margin-h=5" width="100%" />
+<!-- Alternative Stats Display - Simple & Reliable -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-Expert-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <br/>
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <br/>
+  <img src="https://img.shields.io/badge/Laravel-Expert-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 </td>
 </tr>
@@ -68,81 +86,101 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack & Expertise
 
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+### 💻 Programming Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,python,js,ts,bash,go&theme=dark" alt="Languages" />
+  </a>
 </p>
 
-### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+### 🚀 Frameworks & Libraries
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,vue,nodejs,express,nestjs,tailwind,bootstrap,jquery&theme=dark" alt="Frameworks" />
+  </a>
 </p>
 
-### Databases & Storage
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+### 🗄️ Databases & Storage
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,prisma&theme=dark" alt="Databases" />
+  </a>
 </p>
 
-### DevOps & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+### ⚙️ DevOps & Infrastructure
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,linux,git,github,githubactions,cloudflare&theme=dark" alt="DevOps" />
+  </a>
 </p>
 
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+### 🔧 Tools & Platforms
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,postman,figma,regex,wordpress&theme=dark" alt="Tools" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
-  <!-- Streak Stats - Most Reliable -->
-  <img src="https://streak-stats.demolab.com?user=SeniorAminam&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="Streak" />
   
-  <!-- Alternative Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SeniorAminam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="Stats" />
+  <!-- Streak Stats - Alternative Reliable Source -->
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=SeniorAminam&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly" alt="GitHub Streak" width="48%" />
+  </a>
+  
+  <!-- Alternative Stats - Simple & Reliable -->
+  <a href="https://github.com/SeniorAminam">
+    <img src="https://github-stats-alpha.vercel.app/api?username=SeniorAminam&cc=22272e&tc=39d353&ic=fff&bc=0000" alt="GitHub Stats" width="48%" />
+  </a>
+
 </div>
 
-<!-- Top Languages - Compact -->
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorAminam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" alt="Languages" />
+<!-- Top Languages - Alternative Working Source -->
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SeniorAminam&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" width="60%" alt="Top Languages" />
+</div>
+
+<!-- Contribution Graph - Alternative Working Source -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeniorAminam&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 🔥 Contribution Activity
+## 📈 Detailed Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeniorAminam&theme=tokyonight" width="100%" alt="Profile Details" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeniorAminam&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeniorAminam&theme=tokyonight" width="49%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SeniorAminam&theme=tokyonight" width="49%" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeniorAminam&theme=tokyonight" width="49%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SeniorAminam&theme=tokyonight&utcOffset=3" width="49%" alt="Productive Time" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <!-- Alternative Trophy Source - More Reliable -->
+  <img src="https://github-trophies.vercel.app/?username=SeniorAminam&theme=tokyonight&no-frame=true&column=6&margin-w=5&margin-h=5" alt="Trophies" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -151,41 +189,18 @@
     <img alt="Snake Animation" src="https://raw.githubusercontent.com/SeniorAminam/SeniorAminam/output/github-contribution-grid-snake.svg" />
   </picture>
   <br/>
-  <sub>🔄 <i>Animation updates every 12 hours via GitHub Actions</i></sub>
+  <sub>🐍 The snake eats my contributions! Watch it grow daily...</sub>
+  <br/>
+  <sub><i>⚠️ First run: Go to Actions tab → Run workflow manually</i></sub>
 </div>
 
 ---
 
-## 📈 Detailed Metrics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeniorAminam&theme=tokyonight" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeniorAminam&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SeniorAminam&theme=tokyonight" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeniorAminam&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SeniorAminam&theme=tokyonight&utcOffset=3" width="49%" />
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Smdb](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAminam&repo=Smdb&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/SeniorAminam/Smdb)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAminam&repo=REPO2&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/SeniorAminam)
-
-</div>
+## 📁 My Repositories
 
 <p align="center">
   <a href="https://github.com/SeniorAminam?tab=repositories">
-    <img src="https://img.shields.io/badge/📁%20View%20All%20Repositories-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔍%20View%20All%20Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" />
   </a>
 </p>
 
@@ -195,37 +210,43 @@
 
 <p align="center">
   <a href="https://senioramin.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Website-senioramin.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Website-senioramin.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/SudoAmin" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/SudoAmin" target="_blank">
-    <img src="https://img.shields.io/badge/📱%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/SeniorAminam" target="_blank">
-    <img src="https://img.shields.io/badge/⚡%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/SudoAmin" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:sudoaminam@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 💡 Daily Inspiration
+## 💡 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Amin%20Davodian-0891b2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Amin%20Davodian-0891b2?style=flat-square" alt="Made by" />
   <br/>
-  <sub>⭐ If you find my work helpful, please consider starring my repositories! ⭐</sub>
+  <sub>⭐ Star my repositories if you find them helpful! ⭐</sub>
 </p>
+
+<!-- 
+  ╔═══════════════════════════════════════════════════════════════════════╗
+  ║                              END OF README                              ║
+  ╚═══════════════════════════════════════════════════════════════════════╝
+-->
